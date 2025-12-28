@@ -6,7 +6,7 @@ import { inngest } from "../inngest/index.js";
 // API to get now playing movies from TMDB API
 export const getNowPlayingMovies = async (req, res)=>{
     try {
-        const { data } = await axios.get('https://api.themoviedb.org/3/movie/now_playing', {
+        const { data } = await axios.get('https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&region=IN&release_date.gte=2025-09-28&release_date.lte=2025-12-28&sort_by=popularity.desc&with_origin_country=IN&with_original_language=hi%7Cen', {
             headers: {Authorization : `Bearer ${process.env.TMDB_API_KEY}`}
         })
 
