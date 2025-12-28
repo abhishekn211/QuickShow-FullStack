@@ -16,20 +16,20 @@ export const assets = {
 
 export const dummyTrailers = [
     {
-        image: "https://img.youtube.com/vi/WpW36ldAqnM/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=WpW36ldAqnM'
+        image: "https://i.ytimg.com/vi/nb_fFj_0rq8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCq_V8pSkua6ycYv6LVhn2xYaRD5w",
+        videoUrl: 'https://www.youtube.com/watch?v=nb_fFj_0rq8'
     },
     {
-        image: "https://img.youtube.com/vi/-sAOWhvheK8/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=-sAOWhvheK8'
+        image: "https://i.ytimg.com/vi/BKOVzHcjEIo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB0ssjJ-PNqb824AXxbhlhyiz2yow",
+        videoUrl : 'https://www.youtube.com/watch?v=BKOVzHcjEIo'
     },
     {
-        image: "https://img.youtube.com/vi/1pHDWnXmK7Y/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=1pHDWnXmK7Y'
+        image: "https://i.ytimg.com/vi/JRno64l5m6I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCuwxoWMK25vJWnx_-c-tLveB9Q4g",
+        videoUrl: 'https://www.youtube.com/watch?v=JRno64l5m6I'
     },
     {
-        image: "https://img.youtube.com/vi/umiKiW4En9g/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=umiKiW4En9g'
+        image: "https://i.ytimg.com/vi/Eb9fIMlIiyc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkvYYgxC1NTqpSbPmhFNP6opZMzA",
+        videoUrl: 'https://www.youtube.com/watch?v=Eb9fIMlIiyc'
     },
 ]
 
